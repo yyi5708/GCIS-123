@@ -1,0 +1,48 @@
+Unit 02 Practice Problems
+
+The goal of these "mini practica" is to give you practice with coding problems
+similar to those that you will see on the midterm practica. You will be 
+required to solve each problem with minimal assistance. You should use these
+mini-practica as an opportunity to gage your preparedness for the exams.
+
+You should create all of your required files in this folder along with these
+instructions.
+
+Each mini-practicum counts as a homework assignment. Each of the numbered 
+problems below is weighted equally. 
+
+
+1. Create a new Python module in a file named "practice.py" and define a 
+function named "convert_height." The function should prompt the user to enter 
+their height in inches, and then print the height back to the user in feet and
+inches.
+
+  a. Your function needs only handle whole numbers of inches, i.e. the user 
+     will not enter fractional inches as floating-point numbers.
+
+  b. You should produce output that matches the example below as closely as 
+     possible, including the use of ' to indicate feet, and " to indicate 
+     inches in the output.
+
+  c. Example output:
+
+     Enter your height in inches: 71
+     You are 5' 11" tall
+
+
+2. In the same module define a function named "snow_man" that declares 
+parameters for  x, y coordinates at the bottom of the bottom snowball, and a 
+radius. Use turtle to draw an image similar to the example provided in the 
+snow_man.png file. You must demonstrate reuse by avoiding duplicate blocks of 
+code; you may define any helper functions that you see fit. 
+  
+  a. The background color in the example is "cyan", but you can use any color
+     that you would like.
+
+  b. The bottom snowball should use the argument passed in for the radius.
+
+  c. The middle snowball is 75% of the radius of the bottom. The head is 75% of
+     the radius of the middle.
+
+Call your function from main. Don't forget to use input() to keep the window 
+from closing.

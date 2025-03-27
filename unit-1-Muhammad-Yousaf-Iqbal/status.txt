@@ -1,0 +1,40 @@
+git status of the questions.txt file was shown waiting to be added/comitted/pushed, in staging area...untracked files
+
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        questions.txt
+        status.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ git add questions.txt
+warning: in the working copy of 'questions.txt', LF will be replaced by CRLF the next time Git touches it
+gi
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ git add status.txt
+warning: in the working copy of 'status.txt', LF will be replaced by CRLF the next time Git touches it
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ git commit -m "full name txt file / output txt file"
+[main 4cca835] full name txt file / output txt file
+ 2 files changed, 15 insertions(+)
+ create mode 100644 questions.txt
+ create mode 100644 status.txt
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ git push
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (4/4), 682 bytes | 227.00 KiB/s, done.
+Total 4 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/GCIS-123-2225/unit-1-Muhammad-Yousaf-Iqbal
+   b7f57a7..4cca835  main -> main

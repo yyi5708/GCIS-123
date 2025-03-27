@@ -1,0 +1,28 @@
+#Muhammad Yousaf Iqbal
+
+Council:
+
+    Administrators: string
+    Chief Administrator: string
+
+Chief Administrator Biography:
+
+    Name: string
+    Region: string
+    Departments: string
+    Languages: string
+
+Administrators Biographies:
+
+    Name: string
+    Region: string
+    Departments: string
+    Languages: string
+
+Classes:
+
+    Fields: type
+
+Structure for Application...
+
+#Done

@@ -1,0 +1,4 @@
+1. Any errors related to misspelling, forgetting commas, colons, parenthesis, etc. Just the simple ones because it shows you in the problems tab and in the syntax when you run the program.
+2. Yes it was really easy to solve them because VS CODE tells you the right answer and helps you fix it.
+3. Not that I have encountered yet.
+4. The most difficult error was when I had to clone my repo to my laptop and it would not allow me to because of something wrong with my laptop and the creditentials/permissions on the computer, I got it easily fixed and got help from the teacher/CA.

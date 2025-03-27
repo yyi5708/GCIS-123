@@ -1,0 +1,77 @@
+commit 33a86fcdd5a05af4e4888f956e56208eedcf0d5f
+Author: Muhammad Yousaf Iqbal <yyi5708@g.rit.edu>
+Date:   Mon Jan 23 17:13:34 2023 -0500
+
+    CA introduction
+
+commit a307122a78cbbc0cbf461a668936666948a3c936
+Author: Muhammad Yousaf Iqbal <yyi5708@g.rit.edu>
+Date:   Mon Jan 23 17:13:17 2023 -0500
+
+    updated file
+
+commit e502da4d41f42df1d43e7e423cd070e5ec16b6ad
+Author: Muhammad Yousaf Iqbal <yyi5708@g.rit.edu>
+Date:   Mon Jan 23 16:32:49 2023 -0500
+
+    old discord mentor schedule, cant find new one
+
+commit 823165c4f29edc3d55f209eefaedd820ea858375
+Author: Muhammad Yousaf Iqbal <yyi5708@g.rit.edu>
+Date:   Mon Jan 23 16:30:02 2023 -0500
+
+    assignment 1.3 code backup
+
+commit d8f9fa967dc35ac87f4e2143229050e205db59d4
+Author: Muhammad Yousaf Iqbal <yyi5708@g.rit.edu>
+Date:   Mon Jan 23 16:26:02 2023 -0500
+
+    pictures and screenshots of the required locations
+
+commit f97ba9487ed132a71bc0e3a0bc333e96c393140d
+Author: Muhammad Yousaf Iqbal <yyi5708@g.rit.edu>
+Date:   Mon Jan 23 10:57:25 2023 -0500
+
+    new question.txt file that was moved
+
+commit bda1ee226e3025840a0d7e441378dfb9354c7118
+Author: Muhammad Yousaf Iqbal <yyi5708@g.rit.edu>
+Date:   Mon Jan 23 10:57:04 2023 -0500
+
+    old question.txt file that was deleted
+
+commit 43e85d637a635a0d3128a0b5340c5d56431c8e45
+Author: Muhammad Yousaf Iqbal <yyi5708@g.rit.edu>
+Date:   Mon Jan 23 10:53:10 2023 -0500
+
+    observation updated file and moved file to new directory
+
+commit 4cca835b44fd465ed92d8a556b3bd722786eaaff
+Author: Muhammad Yousaf Iqbal <yyi5708@g.rit.edu>
+Date:   Mon Jan 23 10:45:38 2023 -0500
+
+    full name txt file / output txt file
+
+commit b7f57a76e11df4d856a9e978f7c7029f78324c07
+Author: Muhammad Yousaf Iqbal <yyi5708@g.rit.edu>
+Date:   Sat Jan 21 13:00:11 2023 -0500
+
+    Assignment 1.2 Pic
+
+commit c8a36c3b910c44ce2e8c2a8e7b81b94725f5c7bc
+Author: Muhammad Yousaf Iqbal <yyi5708@g.rit.edu>
+Date:   Fri Jan 20 18:17:07 2023 -0500
+
+    added hometown
+
+commit c3f90caf49882a77a55448a4ee8adf92c6a5ee45
+Author: Muhammad Yousaf Iqbal <yyi5708@g.rit.edu>
+Date:   Fri Jan 20 18:15:21 2023 -0500
+
+    added day of the week
+
+commit a0728dc7bba9f08738a9435b0ad4ee2893219720
+Author: Muhammad Yousaf Iqbal <yyi5708@g.rit.edu>
+Date:   Fri Jan 20 18:14:12 2023 -0500
+
+    initial commit

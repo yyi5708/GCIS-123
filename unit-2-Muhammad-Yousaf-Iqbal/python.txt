@@ -1,0 +1,4 @@
+Python 3.10.6
+Python 3.10.6
+Python 3.10.6
+Shows the git version in the text file and keeps adding when repeating command.

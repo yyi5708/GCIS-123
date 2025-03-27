@@ -1,0 +1,16 @@
+dim gray,dim gray,grey,gray,dim gray,dark gray,dark gray,dim gray,dark gray,gray,gray,gray,gray,gray,gray,dark gray
+dim gray,dim gray,dark gray,dark gray,dark gray,dark gray,dark gray,dim gray,dark grey,dark gray,dark gray,dark gray,dim gray,gray,gray,gray
+gray,dim gray,dim gray,dim gray,yellow,dim gray,dim gray,dim gray,dark gray,dim gray,gray,gray,light yellow,yellow,gray,gray
+gray,dark gray,gray,gray,gray,dim gray,gray,light yellow,gold,dim gray,dim gray,dim gray,dim gray,dim gray,dim gray,gray
+gray,dark gray,dark gray,dim gray,dim gray,dim gray,dim gray,dim gray,dim gray,dim gray,dark gray,dark gray,dark gray,dark gray,dark gray,dim gray
+dim gray,dim gray,gray,gray,gray,light yellow,light yellow,gray,gray,dim gray,light yellow,light yellow,dim gray,dim gray,dim gray,gray
+dark gray,dark gray,gray,light yellow,lightyellow,yellow,yellow,gold,gray,grey,yellow,gold,dark gray,dark gray,dark gray,dim gray
+gray,dim gray,gray,dim gray,dim gray,dim gray,dim gray,dim gray,dim gray,dim gray,dim gray,dim gray,gray,dim gray,gray,gray
+gray,light yellow,yellow,dim gray,dark gray,gray,gray,gray,light yellow,light yellow,dark gray,dark gray,dark gray,dark gray,dark gray,dark gray
+gray,dim gray,dim gray,dim gray,dim gray,dim gray,dim gray,yellow,gold,gold,gold,dim gray,dim gray,dim gray,dark gray,gray
+gray,dark gray,gray,dim gray,yellow,gray,gray,dim gray,dim gray,dim gray,dark gray,dark gray,gray,gray,gray,gray
+dim gray,gray,gray,gray,dim gray,dim gray,dim gray,dim gray,dark gray,dark gray,dim gray,light yellow,gold,gray,gray,dim gray
+gray,dim gray,dim gray,dim gray,dim gray,dim gray,dim gray,dim gray,light yellow,light yellow,light yellow,yellow,yellow,gold,gray,gray
+gray,dark gray,dim gray,light yellow,gold,gray,gray,gray,dim gray,gold,gold,dim gray,gray,gray,dark gray,dark gray
+gray,gray,gray,dim gray,dim gray,dim gray,dim gray,dim gray,gray,gray,dark gray,dark gray,gray,gray,gray,dark gray
+dim gray,dim gray,dim gray,dim gray,dark gray,dark gray,gray,gray,gray,gray,gray,gray,gray,gray,dark gray,dark gray

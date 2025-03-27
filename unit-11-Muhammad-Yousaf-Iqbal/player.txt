@@ -1,0 +1,15 @@
+#MYI
+
+Words:
+    deck, hand, card, battalion, attack power, battalion power, turn, damage, health, discard, name, score, resource points, player
+
+class Player:
+    name (string)
+    score (int)
+    resource points (int)
+    deck (list)
+    hand (list)
+    battalion (list)
+    discard(list)
+
+#Done

@@ -1,0 +1,639 @@
+
+16076@Muhammad MINGW64 ~
+$ ls -la
+total 17995
+drwxr-xr-x 1 16076 197609       0 Jan 21 13:00  ./
+drwxr-xr-x 1 16076 197609       0 Oct 24 10:48  ../
+-rw-r--r-- 1 16076 197609    7214 Jan 21 13:00  .bash_history
+-rw-r--r-- 1 16076 197609     190 Jan 20 17:58  .gitconfig
+drwxr-xr-x 1 16076 197609       0 Nov  9 19:13  .ipython/
+-rw-r--r-- 1 16076 197609      20 Aug 26 09:25  .lesshst
+-rw-r--r-- 1 16076 197609   12288 Jan 18 18:01  .swo
+-rw-r--r-- 1 16076 197609   12288 Aug 22 09:33  .swp
+drwxr-xr-x 1 16076 197609       0 Sep 26 09:19  .vim/
+-rw-r--r-- 1 16076 197609   20042 Jan 21 12:47  .viminfo
+drwxr-xr-x 1 16076 197609       0 Aug 29 09:27  .vscode/
+drwxr-xr-x 1 16076 197609       0 Nov 29 11:54  2221-SWEN-101-04-6/
+drwxr-xr-x 1 16076 197609       0 Oct 24 13:08  AppData/
+lrwxrwxrwx 1 16076 197609      30 Oct 24 10:48 'Application Data' -> /c/Users/16076/AppData/Roaming/
+drwxr-xr-x 1 16076 197609       0 Oct 24 13:11  Contacts/
+lrwxrwxrwx 1 16076 197609      58 Oct 24 10:48  Cookies -> /c/Users/16076/AppData/Local/Microsoft/Windows/INetCookies/
+drwxr-xr-x 1 16076 197609       0 Jan 21 12:59  Desktop/
+drwxr-xr-x 1 16076 197609       0 Aug 24 08:13  Dev1/
+drwxr-xr-x 1 16076 197609       0 Jan 20 18:04  Documents/
+drwxr-xr-x 1 16076 197609       0 Jan 23 10:13  Downloads/
+drwxr-xr-x 1 16076 197609       0 Oct 24 13:11  Favorites/
+drwxr-xr-x 1 16076 197609       0 Oct 24 13:11  Links/
+lrwxrwxrwx 1 16076 197609      28 Oct 24 10:48 'Local Settings' -> /c/Users/16076/AppData/Local/
+drwxr-xr-x 1 16076 197609       0 Oct 24 13:11  Music/
+lrwxrwxrwx 1 16076 197609      24 Oct 24 10:48 'My Documents' -> /c/Users/16076/Documents/
+-rw-r--r-- 1 16076 197609 8912896 Jan 12 19:01  NTUSER.DAT
+-rw-r--r-- 1 16076 197609 1048576 Jan 14 20:20  NTUSER.DAT{a2332f17-cdbf-11ec-8680-002248483d79}.TxR.0.regtrans-ms
+-rw-r--r-- 1 16076 197609 1048576 Jan 14 20:19  NTUSER.DAT{a2332f17-cdbf-11ec-8680-002248483d79}.TxR.1.regtrans-ms
+-rw-r--r-- 1 16076 197609 1048576 Jan 14 20:19  NTUSER.DAT{a2332f17-cdbf-11ec-8680-002248483d79}.TxR.2.regtrans-ms
+-rw-r--r-- 1 16076 197609   65536 Jan 14 20:20  NTUSER.DAT{a2332f17-cdbf-11ec-8680-002248483d79}.TxR.blf
+-rw-r--r-- 1 16076 197609   65536 Oct 24 10:48  NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TM.blf
+-rw-r--r-- 1 16076 197609  524288 Oct 24 10:48  NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000001.regtrans-ms
+-rw-r--r-- 1 16076 197609  524288 Oct 24 10:48  NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000002.regtrans-ms
+lrwxrwxrwx 1 16076 197609      66 Oct 24 10:48  NetHood -> '/c/Users/16076/AppData/Roaming/Microsoft/Windows/Network Shortcuts'/
+drwxr-xr-x 1 16076 197609       0 Jun 22  2022  OneDrive/
+drwxr-xr-x 1 16076 197609       0 Oct 29 00:03  Pictures/
+lrwxrwxrwx 1 16076 197609      66 Oct 24 10:48  PrintHood -> '/c/Users/16076/AppData/Roaming/Microsoft/Windows/Printer Shortcuts'/
+lrwxrwxrwx 1 16076 197609      55 Oct 24 10:48  Recent -> /c/Users/16076/AppData/Roaming/Microsoft/Windows/Recent/
+drwxr-xr-x 1 16076 197609       0 Oct 24 13:11 'Saved Games'/
+drwxr-xr-x 1 16076 197609       0 Oct 24 13:11  Searches/
+lrwxrwxrwx 1 16076 197609      55 Oct 24 10:48  SendTo -> /c/Users/16076/AppData/Roaming/Microsoft/Windows/SendTo/
+drwxr-xr-x 1 16076 197609       0 Jan 21 12:59  SoftDev1_Spring/
+drwxr-xr-x 1 16076 197609       0 Jan 21 12:59  SoftDevI/
+lrwxrwxrwx 1 16076 197609      59 Oct 24 10:48 'Start Menu' -> '/c/Users/16076/AppData/Roaming/Microsoft/Windows/Start Menu'/
+lrwxrwxrwx 1 16076 197609      58 Oct 24 10:48  Templates -> /c/Users/16076/AppData/Roaming/Microsoft/Windows/Templates/
+drwxr-xr-x 1 16076 197609       0 Oct 24 13:11  Videos/
+drwxr-xr-x 1 16076 197609       0 Nov 29 11:49  group-project-04-2221-swen-101-04-6/
+-rw-r--r-- 1 16076 197609   69763 Aug 24 13:52  mintty.2022-08-24_13-52-55.png
+-rw-r--r-- 1 16076 197609 2338816 Oct 24 10:48  ntuser.dat.LOG1
+-rw-r--r-- 1 16076 197609 2666496 Oct 24 10:48  ntuser.dat.LOG2
+-rw-r--r-- 1 16076 197609      20 Oct 24 13:11  ntuser.ini
+drwxr-xr-x 1 16076 197609       0 Aug 29 08:23  practicum/
+drwxr-xr-x 1 16076 197609       0 Jan 20 17:56  temp/
+drwxr-xr-x 1 16076 197609       0 Sep 15 17:55  yyi5708.github.io/
+
+16076@Muhammad MINGW64 ~
+$ cd SoftDev1_Spring/
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring (master)
+$ ls -la
+total 16
+drwxr-xr-x 1 16076 197609 0 Jan 21 12:59 ./
+drwxr-xr-x 1 16076 197609 0 Jan 21 13:00 ../
+drwxr-xr-x 1 16076 197609 0 Jan 20 17:44 .git/
+drwxr-xr-x 1 16076 197609 0 Jan 21 12:59 unit-1-Muhammad-Yousaf-Iqbal/
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring (master)
+$ cd unit-1-Muhammad-Yousaf-Iqbal/
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ ls -la
+total 125
+drwxr-xr-x 1 16076 197609      0 Jan 21 12:59  ./
+drwxr-xr-x 1 16076 197609      0 Jan 21 12:59  ../
+drwxr-xr-x 1 16076 197609      0 Jan 21 13:00  .git/
+-rw-r--r-- 1 16076 197609 109957 Jan 21 12:58 'Assignment 1.2.png'
+-rw-r--r-- 1 16076 197609  12163 Jan 20 18:11  README.md
+-rw-r--r-- 1 16076 197609     74 Jan 20 18:16  me.txt
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ vi questions.txt
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        questions.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ ^C
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ vi status.txt
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ cd questions.txt
+bash: cd: questions.txt: Not a directory
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ vi questions.txt
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ vi status.txt
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ git staus
+git: 'staus' is not a git command. See 'git --help'.
+
+The most similar command is
+        status
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        questions.txt
+        status.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ git add questions.txt
+warning: in the working copy of 'questions.txt', LF will be replaced by CRLF the next time Git touches it
+gi
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ git add status.txt
+warning: in the working copy of 'status.txt', LF will be replaced by CRLF the next time Git touches it
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ git commit -m "full name txt file / output txt file"
+[main 4cca835] full name txt file / output txt file
+ 2 files changed, 15 insertions(+)
+ create mode 100644 questions.txt
+ create mode 100644 status.txt
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ git push
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (4/4), 682 bytes | 227.00 KiB/s, done.
+Total 4 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/GCIS-123-2225/unit-1-Muhammad-Yousaf-Iqbal
+   b7f57a7..4cca835  main -> main
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ ls -la
+total 131
+drwxr-xr-x 1 16076 197609      0 Jan 23 10:43  ./
+drwxr-xr-x 1 16076 197609      0 Jan 21 12:59  ../
+drwxr-xr-x 1 16076 197609      0 Jan 23 10:45  .git/
+-rw-r--r-- 1 16076 197609 109957 Jan 21 12:58 'Assignment 1.2.png'
+-rw-r--r-- 1 16076 197609  12163 Jan 20 18:11  README.md
+-rw-r--r-- 1 16076 197609     74 Jan 20 18:16  me.txt
+-rw-r--r-- 1 16076 197609     23 Jan 23 10:34  questions.txt
+-rw-r--r-- 1 16076 197609    358 Jan 23 10:43  status.txt
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ mkdir Muhammad
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ ls -la
+total 131
+drwxr-xr-x 1 16076 197609      0 Jan 23 10:46  ./
+drwxr-xr-x 1 16076 197609      0 Jan 21 12:59  ../
+drwxr-xr-x 1 16076 197609      0 Jan 23 10:45  .git/
+-rw-r--r-- 1 16076 197609 109957 Jan 21 12:58 'Assignment 1.2.png'
+drwxr-xr-x 1 16076 197609      0 Jan 23 10:46  Muhammad/
+-rw-r--r-- 1 16076 197609  12163 Jan 20 18:11  README.md
+-rw-r--r-- 1 16076 197609     74 Jan 20 18:16  me.txt
+-rw-r--r-- 1 16076 197609     23 Jan 23 10:34  questions.txt
+-rw-r--r-- 1 16076 197609    358 Jan 23 10:43  status.txt
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ cd Muhammad/
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal/Muhammad (main)
+$ ls -la
+total 4
+drwxr-xr-x 1 16076 197609 0 Jan 23 10:46 ./
+drwxr-xr-x 1 16076 197609 0 Jan 23 10:46 ../
+g
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal/Muhammad (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal/Muhammad (main)
+$ cd ..
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ ls -la
+total 131
+drwxr-xr-x 1 16076 197609      0 Jan 23 10:46  ./
+drwxr-xr-x 1 16076 197609      0 Jan 21 12:59  ../
+drwxr-xr-x 1 16076 197609      0 Jan 23 10:46  .git/
+-rw-r--r-- 1 16076 197609 109957 Jan 21 12:58 'Assignment 1.2.png'
+drwxr-xr-x 1 16076 197609      0 Jan 23 10:46  Muhammad/
+-rw-r--r-- 1 16076 197609  12163 Jan 20 18:11  README.md
+-rw-r--r-- 1 16076 197609     74 Jan 20 18:16  me.txt
+-rw-r--r-- 1 16076 197609     23 Jan 23 10:34  questions.txt
+-rw-r--r-- 1 16076 197609    358 Jan 23 10:43  status.txt
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ git add Muhammad/
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ git commit -m "new empty directory"
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ git push
+Everything up-to-date
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ ls -la
+total 131
+drwxr-xr-x 1 16076 197609      0 Jan 23 10:46  ./
+drwxr-xr-x 1 16076 197609      0 Jan 21 12:59  ../
+drwxr-xr-x 1 16076 197609      0 Jan 23 10:47  .git/
+-rw-r--r-- 1 16076 197609 109957 Jan 21 12:58 'Assignment 1.2.png'
+drwxr-xr-x 1 16076 197609      0 Jan 23 10:46  Muhammad/
+-rw-r--r-- 1 16076 197609  12163 Jan 20 18:11  README.md
+-rw-r--r-- 1 16076 197609     74 Jan 20 18:16  me.txt
+-rw-r--r-- 1 16076 197609     23 Jan 23 10:34  questions.txt
+-rw-r--r-- 1 16076 197609    358 Jan 23 10:43  status.txt
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ vi questions.txt
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ ls -la
+total 131
+drwxr-xr-x 1 16076 197609      0 Jan 23 10:51  ./
+drwxr-xr-x 1 16076 197609      0 Jan 21 12:59  ../
+drwxr-xr-x 1 16076 197609      0 Jan 23 10:47  .git/
+-rw-r--r-- 1 16076 197609 109957 Jan 21 12:58 'Assignment 1.2.png'
+drwxr-xr-x 1 16076 197609      0 Jan 23 10:46  Muhammad/
+-rw-r--r-- 1 16076 197609  12163 Jan 20 18:11  README.md
+-rw-r--r-- 1 16076 197609     74 Jan 20 18:16  me.txt
+-rw-r--r-- 1 16076 197609    333 Jan 23 10:51  questions.txt
+-rw-r--r-- 1 16076 197609    358 Jan 23 10:43  status.txt
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ mv questions.txt Muhammad/
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ ls -la
+total 130
+drwxr-xr-x 1 16076 197609      0 Jan 23 10:52  ./
+drwxr-xr-x 1 16076 197609      0 Jan 21 12:59  ../
+drwxr-xr-x 1 16076 197609      0 Jan 23 10:47  .git/
+-rw-r--r-- 1 16076 197609 109957 Jan 21 12:58 'Assignment 1.2.png'
+drwxr-xr-x 1 16076 197609      0 Jan 23 10:52  Muhammad/
+-rw-r--r-- 1 16076 197609  12163 Jan 20 18:11  README.md
+-rw-r--r-- 1 16076 197609     74 Jan 20 18:16  me.txt
+-rw-r--r-- 1 16076 197609    358 Jan 23 10:43  status.txt
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ cd Muhammad/
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal/Muhammad (main)
+$ ls -la
+total 5
+drwxr-xr-x 1 16076 197609   0 Jan 23 10:52 ./
+drwxr-xr-x 1 16076 197609   0 Jan 23 10:52 ../
+-rw-r--r-- 1 16076 197609 333 Jan 23 10:51 questions.txt
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal/Muhammad (main)
+$ vi questions.txt
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal/Muhammad (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        deleted:    ../questions.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        ./
+
+no changes added to commit (use "git add" and/or "git commit -a")
+g
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal/Muhammad (main)
+$ git add questions.txt
+warning: in the working copy of 'Muhammad/questions.txt', LF will be replaced by CRLF the next time Git touches it
+gi
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal/Muhammad (main)
+$ git commit -m "observation updated file and moved file to new directory"
+[main 43e85d6] observation updated file and moved file to new directory
+ 1 file changed, 4 insertions(+)
+ create mode 100644 Muhammad/questions.txt
+git
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal/Muhammad (main)
+$ git push
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (4/4), 570 bytes | 71.00 KiB/s, done.
+Total 4 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/GCIS-123-2225/unit-1-Muhammad-Yousaf-Iqbal
+   4cca835..43e85d6  main -> main
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal/Muhammad (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        deleted:    ../questions.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal/Muhammad (main)
+$ vi questions.txt
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal/Muhammad (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   questions.txt
+        deleted:    ../questions.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal/Muhammad (main)
+$ ls -la
+total 5
+drwxr-xr-x 1 16076 197609   0 Jan 23 10:55 ./
+drwxr-xr-x 1 16076 197609   0 Jan 23 10:52 ../
+-rw-r--r-- 1 16076 197609 606 Jan 23 10:55 questions.txt
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal/Muhammad (main)
+$ cd ..
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ ls -la
+total 130
+drwxr-xr-x 1 16076 197609      0 Jan 23 10:52  ./
+drwxr-xr-x 1 16076 197609      0 Jan 21 12:59  ../
+drwxr-xr-x 1 16076 197609      0 Jan 23 10:55  .git/
+-rw-r--r-- 1 16076 197609 109957 Jan 21 12:58 'Assignment 1.2.png'
+drwxr-xr-x 1 16076 197609      0 Jan 23 10:55  Muhammad/
+-rw-r--r-- 1 16076 197609  12163 Jan 20 18:11  README.md
+-rw-r--r-- 1 16076 197609     74 Jan 20 18:16  me.txt
+-rw-r--r-- 1 16076 197609    358 Jan 23 10:43  status.txt
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   Muhammad/questions.txt
+        deleted:    questions.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ git add questions.txt
+gi
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ git commit -m "old question.txt file that was deleted"
+[main bda1ee2] old question.txt file that was deleted
+ 1 file changed, 2 deletions(-)
+ delete mode 100644 questions.txt
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ git add Muhammad/questions.txt
+warning: in the working copy of 'Muhammad/questions.txt', LF will be replaced by CRLF the next time Git touches it
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ git commit -m "new question.txt file that was moved"
+[main f97ba94] new question.txt file that was moved
+ 1 file changed, 2 insertions(+)
+git
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ git push
+Enumerating objects: 9, done.
+Counting objects: 100% (9/9), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (6/6), 777 bytes | 388.00 KiB/s, done.
+Total 6 (delta 3), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (3/3), completed with 2 local objects.
+To https://github.com/GCIS-123-2225/unit-1-Muhammad-Yousaf-Iqbal
+   43e85d6..f97ba94  main -> main
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        scavenger_hunt/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ git add scavenger_hunt/
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ git commit -m "pictures and screenshots of the required locations"
+[main d8f9fa9] pictures and screenshots of the required locations
+ 9 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 scavenger_hunt/I GOT A EMAIL FROM THE SI FOR THE CLASS BUT NOT ONE FROM THE CA, HE NEVER SENT OUT AN EMAIL..png
+ create mode 100644 scavenger_hunt/PROFESSOR CROWE DOES NOT HAVE A OFFICE DUE TO HIM BEING A NEW HIRE.txt
+ create mode 100644 scavenger_hunt/PROFESSOR CROWE OFFICE HOURS ARE ONLY BY APPOINTMENT.txt
+ create mode 100644 scavenger_hunt/The GCCIS Tutoring Center.jpg
+ create mode 100644 scavenger_hunt/The GCCIS Tutoring Schedule.png
+ create mode 100644 scavenger_hunt/The Society Of Software Engineers Mentoring Schedule.png
+ create mode 100644 scavenger_hunt/The Society Of Software Engineers.jpg
+ create mode 100644 scavenger_hunt/The Women In Computing Space.jpg
+ create mode 100644 scavenger_hunt/The Women In Computing Tutoring Schedule.png
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ git push
+Enumerating objects: 12, done.
+Counting objects: 100% (12/12), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (10/10), done.
+Writing objects: 100% (11/11), 10.17 MiB | 7.57 MiB/s, done.
+Total 11 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/GCIS-123-2225/unit-1-Muhammad-Yousaf-Iqbal
+   f97ba94..d8f9fa9  main -> main
+=
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ cd ~
+
+16076@Muhammad MINGW64 ~
+$ ls -la
+total 16355
+drwxr-xr-x 1 16076 197609       0 Jan 23 10:55  ./
+drwxr-xr-x 1 16076 197609       0 Oct 24 10:48  ../
+-rw-r--r-- 1 16076 197609    7146 Jan 23 10:41  .bash_history
+-rw-r--r-- 1 16076 197609     190 Jan 20 17:58  .gitconfig
+drwxr-xr-x 1 16076 197609       0 Nov  9 19:13  .ipython/
+-rw-r--r-- 1 16076 197609      20 Aug 26 09:25  .lesshst
+-rw-r--r-- 1 16076 197609   12288 Jan 18 18:01  .swo
+-rw-r--r-- 1 16076 197609   12288 Aug 22 09:33  .swp
+drwxr-xr-x 1 16076 197609       0 Sep 26 09:19  .vim/
+-rw-r--r-- 1 16076 197609   21784 Jan 23 10:55  .viminfo
+drwxr-xr-x 1 16076 197609       0 Aug 29 09:27  .vscode/
+drwxr-xr-x 1 16076 197609       0 Nov 29 11:54  2221-SWEN-101-04-6/
+drwxr-xr-x 1 16076 197609       0 Oct 24 13:08  AppData/
+lrwxrwxrwx 1 16076 197609      30 Oct 24 10:48 'Application Data' -> /c/Users/16076/AppData/Roaming/
+drwxr-xr-x 1 16076 197609       0 Oct 24 13:11  Contacts/
+lrwxrwxrwx 1 16076 197609      58 Oct 24 10:48  Cookies -> /c/Users/16076/AppData/Local/Microsoft/Windows/INetCookies/
+drwxr-xr-x 1 16076 197609       0 Jan 23 16:12  Desktop/
+drwxr-xr-x 1 16076 197609       0 Aug 24 08:13  Dev1/
+drwxr-xr-x 1 16076 197609       0 Jan 20 18:04  Documents/
+drwxr-xr-x 1 16076 197609       0 Jan 23 10:13  Downloads/
+drwxr-xr-x 1 16076 197609       0 Oct 24 13:11  Favorites/
+drwxr-xr-x 1 16076 197609       0 Oct 24 13:11  Links/
+lrwxrwxrwx 1 16076 197609      28 Oct 24 10:48 'Local Settings' -> /c/Users/16076/AppData/Local/
+drwxr-xr-x 1 16076 197609       0 Oct 24 13:11  Music/
+lrwxrwxrwx 1 16076 197609      24 Oct 24 10:48 'My Documents' -> /c/Users/16076/Documents/
+-rw-r--r-- 1 16076 197609 8912896 Jan 12 19:01  NTUSER.DAT
+-rw-r--r-- 1 16076 197609 1048576 Jan 14 20:20  NTUSER.DAT{a2332f17-cdbf-11ec-8680-002248483d79}.TxR.0.regtrans-ms
+-rw-r--r-- 1 16076 197609 1048576 Jan 14 20:19  NTUSER.DAT{a2332f17-cdbf-11ec-8680-002248483d79}.TxR.1.regtrans-ms
+-rw-r--r-- 1 16076 197609 1048576 Jan 14 20:19  NTUSER.DAT{a2332f17-cdbf-11ec-8680-002248483d79}.TxR.2.regtrans-ms
+-rw-r--r-- 1 16076 197609   65536 Jan 14 20:20  NTUSER.DAT{a2332f17-cdbf-11ec-8680-002248483d79}.TxR.blf
+-rw-r--r-- 1 16076 197609   65536 Oct 24 10:48  NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TM.blf
+-rw-r--r-- 1 16076 197609  524288 Oct 24 10:48  NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000001.regtrans-ms
+-rw-r--r-- 1 16076 197609  524288 Oct 24 10:48  NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000002.regtrans-ms
+lrwxrwxrwx 1 16076 197609      66 Oct 24 10:48  NetHood -> '/c/Users/16076/AppData/Roaming/Microsoft/Windows/Network Shortcuts'/
+drwxr-xr-x 1 16076 197609       0 Jun 22  2022  OneDrive/
+drwxr-xr-x 1 16076 197609       0 Oct 29 00:03  Pictures/
+lrwxrwxrwx 1 16076 197609      66 Oct 24 10:48  PrintHood -> '/c/Users/16076/AppData/Roaming/Microsoft/Windows/Printer Shortcuts'/
+lrwxrwxrwx 1 16076 197609      55 Oct 24 10:48  Recent -> /c/Users/16076/AppData/Roaming/Microsoft/Windows/Recent/
+drwxr-xr-x 1 16076 197609       0 Oct 24 13:11 'Saved Games'/
+drwxr-xr-x 1 16076 197609       0 Oct 24 13:11  Searches/
+lrwxrwxrwx 1 16076 197609      55 Oct 24 10:48  SendTo -> /c/Users/16076/AppData/Roaming/Microsoft/Windows/SendTo/
+drwxr-xr-x 1 16076 197609       0 Jan 21 12:59  SoftDev1_Spring/
+drwxr-xr-x 1 16076 197609       0 Jan 23 10:58  SoftDevI/
+lrwxrwxrwx 1 16076 197609      59 Oct 24 10:48 'Start Menu' -> '/c/Users/16076/AppData/Roaming/Microsoft/Windows/Start Menu'/
+lrwxrwxrwx 1 16076 197609      58 Oct 24 10:48  Templates -> /c/Users/16076/AppData/Roaming/Microsoft/Windows/Templates/
+drwxr-xr-x 1 16076 197609       0 Oct 24 13:11  Videos/
+drwxr-xr-x 1 16076 197609       0 Nov 29 11:49  group-project-04-2221-swen-101-04-6/
+-rw-r--r-- 1 16076 197609   69763 Aug 24 13:52  mintty.2022-08-24_13-52-55.png
+-rw-r--r-- 1 16076 197609  786432 Oct 24 10:48  ntuser.dat.LOG1
+-rw-r--r-- 1 16076 197609 2535424 Oct 24 10:48  ntuser.dat.LOG2
+-rw-r--r-- 1 16076 197609      20 Oct 24 13:11  ntuser.ini
+drwxr-xr-x 1 16076 197609       0 Aug 29 08:23  practicum/
+drwxr-xr-x 1 16076 197609       0 Jan 20 17:56  temp/
+drwxr-xr-x 1 16076 197609       0 Sep 15 17:55  yyi5708.github.io/
+
+16076@Muhammad MINGW64 ~
+$ cd SoftDev1_Spring/
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring (master)
+$ ls -la
+total 20
+drwxr-xr-x 1 16076 197609 0 Jan 21 12:59 ./
+drwxr-xr-x 1 16076 197609 0 Jan 23 10:55 ../
+drwxr-xr-x 1 16076 197609 0 Jan 20 17:44 .git/
+drwxr-xr-x 1 16076 197609 0 Jan 23 10:59 unit-1-Muhammad-Yousaf-Iqbal/
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring (master)
+$ cd unit-1-Muhammad-Yousaf-Iqbal/
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ ls -la
+total 134
+drwxr-xr-x 1 16076 197609      0 Jan 23 10:59  ./
+drwxr-xr-x 1 16076 197609      0 Jan 21 12:59  ../
+drwxr-xr-x 1 16076 197609      0 Jan 23 16:26  .git/
+-rw-r--r-- 1 16076 197609 109957 Jan 21 12:58 'Assignment 1.2.png'
+drwxr-xr-x 1 16076 197609      0 Jan 23 10:55  Muhammad/
+-rw-r--r-- 1 16076 197609  12163 Jan 20 18:11  README.md
+-rw-r--r-- 1 16076 197609     74 Jan 20 18:16  me.txt
+drwxr-xr-x 1 16076 197609      0 Jan 23 16:16  scavenger_hunt/
+-rw-r--r-- 1 16076 197609    358 Jan 23 10:43  status.txt
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ cd Muhammad/
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal/Muhammad (main)
+$ ls -la
+total 5
+drwxr-xr-x 1 16076 197609   0 Jan 23 10:55 ./
+drwxr-xr-x 1 16076 197609   0 Jan 23 10:59 ../
+-rw-r--r-- 1 16076 197609 606 Jan 23 10:55 questions.txt
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal/Muhammad (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal/Muhammad (main)
+$ cd ..
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ ls -la
+total 134
+drwxr-xr-x 1 16076 197609      0 Jan 23 10:59  ./
+drwxr-xr-x 1 16076 197609      0 Jan 21 12:59  ../
+drwxr-xr-x 1 16076 197609      0 Jan 23 16:26  .git/
+-rw-r--r-- 1 16076 197609 109957 Jan 21 12:58 'Assignment 1.2.png'
+drwxr-xr-x 1 16076 197609      0 Jan 23 10:55  Muhammad/
+-rw-r--r-- 1 16076 197609  12163 Jan 20 18:11  README.md
+-rw-r--r-- 1 16076 197609     74 Jan 20 18:16  me.txt
+drwxr-xr-x 1 16076 197609      0 Jan 23 16:16  scavenger_hunt/
+-rw-r--r-- 1 16076 197609    358 Jan 23 10:43  status.txt
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal (main)
+$ cd scavenger_hunt/
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal/scavenger_hunt (main)
+$ ls -la
+total 10520
+drwxr-xr-x 1 16076 197609       0 Jan 23 16:16  ./
+drwxr-xr-x 1 16076 197609       0 Jan 23 10:59  ../
+-rw-r--r-- 1 16076 197609  705691 Jan 23 16:02 'I GOT A EMAIL FROM THE SI FOR THE CLASS BUT NOT ONE FROM THE CA, HE NEVER SENT OUT AN EMAIL..png'
+-rw-r--r-- 1 16076 197609       0 Jan 23 15:51 'PROFESSOR CROWE DOES NOT HAVE A OFFICE DUE TO HIM BEING A NEW HIRE.txt'
+-rw-r--r-- 1 16076 197609       0 Jan 23 15:52 'PROFESSOR CROWE OFFICE HOURS ARE ONLY BY APPOINTMENT.txt'
+-rw-r--r-- 1 16076 197609 3062375 Aug 27 22:38 'The GCCIS Tutoring Center.jpg'
+-rw-r--r-- 1 16076 197609  200969 Jan 23 15:55 'The GCCIS Tutoring Schedule.png'
+-rw-r--r-- 1 16076 197609  522170 Jan 23 15:58 'The Society Of Software Engineers Mentoring Schedule.png'
+-rw-r--r-- 1 16076 197609 3191884 Aug 27 22:38 'The Society Of Software Engineers.jpg'
+-rw-r--r-- 1 16076 197609 2879328 Aug 27 22:38 'The Women In Computing Space.jpg'
+-rw-r--r-- 1 16076 197609  187382 Jan 23 15:56 'The Women In Computing Tutoring Schedule.png'
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal/scavenger_hunt (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-1-Muhammad-Yousaf-Iqbal/scavenger_hunt (main)
+$ cd ~
+
+16076@Muhammad MINGW64 ~
+$

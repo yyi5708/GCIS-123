@@ -1,0 +1,23 @@
+not d = false
+not e = true
+d or e = true
+d or f = true
+e or g = false
+d and e = false
+d and f = true
+d ^ f = false
+d ^ e = true
+not d and f = false
+
+a == b = false
+a != b = true
+a == (b - 5) = true
+c == d = false
+a == c = false
+a < b = true
+a < = b = true
+a > 5 = false
+a >= 5 = true
+c == d = false
+c < d = true
+b < c = error

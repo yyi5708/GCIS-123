@@ -1,0 +1,6 @@
+Muhammad Yousaf Iqbal
+
+The empty directory named "Muhammad" did not show up in my github remote repository after doing the workflow (status, add, commit, push). Maybe an error occured in the system or the system does not allow you to push new/empty directories to github because there is no content to upload to the repo, no files.
+
+The directory now shows up in the remote repository and so does the new edited version file of "questions.txt". There are also 2 copies of the file present in the repository and I have no clue why...Google says its just one file simply appearing in more than one place...
+

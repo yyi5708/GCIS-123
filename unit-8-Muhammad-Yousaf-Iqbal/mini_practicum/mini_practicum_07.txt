@@ -1,0 +1,31 @@
+Unit 07 Practice Problems (Unit 8 Day 1 mini practicum)
+
+The goal of these "mini practica" is to give you practice with coding problems
+similar to those that you will see on the midterm practica. You will be 
+required to solve each problem with minimal assistance. You should use these
+mini-practica as an opportunity to gauge your preparedness for the exams.
+
+You should create all of your required files in this folder along with these
+instructions.
+
+Each mini-practicum counts as a homework assignment. 
+======================
+
+1. Add a decreasing_comparator(a,b) function (introduced in earlier material) to the array_utils module.  
+It returns True if b <= a, False otherwise.
+You have been provided the increasing_comparator(a,b) function, which returns True if b >= a, False otherwise  
+
+2. Add a function named is_sorted to the array_utils module. 
+The function is_sorted has parameters: an_array, and comparator=increasing_comparator (default value)
+is_sorted returns True if the array is either sorted or reverse sorted depending on the comparator being used, False otherwise. 
+
+Test is_sorted from main using both increasing and decreasing comparators.
+Using array1 = [20, 10, 30] and array2 = [30, 20, 10] as an example, expected output of the function is as follows:
+>>> is_sorted(array1) 
+False
+>>> is_sorted(array1, decreasing_comparator)
+False
+>>> is_sorted(array2, increasing_comparator)
+False
+>>> is_sorted(array2, decreasing_comparator)
+True

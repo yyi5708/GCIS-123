@@ -1,0 +1,54 @@
+Unit 03 Practice Problems
+
+For the remainder of this semester, you will begin each new unit by solving a
+set of practice problems based on the material from the previous unit. You will
+have 30 minutes to complete your answers and push your solution to GitHub. 
+Raise your hand if you need help.
+
+The goal of these "mini practica" is to give you practice with coding problems
+similar to those that you will see on the midterm practica. You will be 
+required to solve each problem with minimal assistance. You should use these
+mini-practica as an opportunity to gage your preparedness for the exams.
+
+Each mini-practicum counts as a homework assignment. Each of the numbered 
+problems below is weighted equally. 
+
+An example image using a starting side length of 750 is provided in example.pdf. 
+The length of the sides of the smallest square is approximately 132.5825.
+
+1. Create a new Python module in a file named "squares.py" and implement a 
+function named "draw_squares" which declares a parameter for the length of the 
+side of the first square. Your function needs to meet the following 
+requirements:
+    a. Your function should work for any reasonable starting size length - do 
+       not hard code the length of any of the squares drawn!
+    b. You must draw a total of six (6) squares.
+    c. Each square should be rotated 45 degrees and circumscribed in the 
+       previous square such that the 4 corners of the smaller square a 
+       tangential to the larger square. To be clear, all 4 corners of the 
+       smaller square must be touching the sides of the larger square. 
+       Hint: this is not as simple as dividing by 2! Use pencil and paper to 
+       draw a picture and work it out.
+    d. Each square must be filled with a different color (you may choose the 
+       colors).
+    e. The function must return the length of the side of the smallest square.
+    f. You should look for opportunities for reuse - add helper functions as 
+       needed to make your code cleaner, more understandable, and minimize 
+       duplicate code.
+
+2. In your "squares" module, Implement a main function that meets the following 
+   requirements: 
+    a. Calls your squares function and produces an image like the example above 
+       (you do not have to match it exactly and may choose your own colors). 
+    b. You may choose the starting side length of the largest square - do not 
+       prompt the user.
+    c. Print the side length of the smallest square that is returned by your 
+       draw_squares function.
+    d. Don't forget to use the input() function to keep the window from closing!
+
+Submission Instructions
+You must ensure that your solution to this assignment is pushed to GitHub before 
+the start of the next lecture period. See the course syllabus for the rubric 
+that will be used to evaluate your submission.
+
+Note: Complete

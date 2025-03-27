@@ -1,0 +1,24 @@
+#MYI
+
+Words:
+    game, faction, heroic goats, villainous trolls, cards, deck, hand, score, name, resource cost, rarity, attack power, health, shuffle, turn
+
+class Player:
+    faction (string)
+    score (int)
+    hand (hand, object or list)
+    deck (deck, object or list)
+
+class Card:
+    name (string)
+    resource cost (int)
+    faction (string)
+    rarity (int)
+    attack power (int)
+    health (int)
+
+class Deck:
+    cards (list)
+
+class Hand:
+    cards (list)

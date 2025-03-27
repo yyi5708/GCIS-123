@@ -1,0 +1,94 @@
+
+16076@Muhammad MINGW64 ~
+$ pwd
+/c/Users/16076
+
+16076@Muhammad MINGW64 ~
+$ cd SoftDev1_Spring/
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring (master)
+$ cd unit-2-Muhammad-Yousaf-Iqbal/
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-2-Muhammad-Yousaf-Iqbal (main)
+$ cd practicum/
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-2-Muhammad-Yousaf-Iqbal/practicum (main)
+$ ls -la
+total 1
+drwxr-xr-x 1 16076 197609   0 Jan 25 17:15 ./
+drwxr-xr-x 1 16076 197609   0 Jan 25 17:15 ../
+-rw-r--r-- 1 16076 197609 229 Jan 25 17:14 about_me_copy.txt
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-2-Muhammad-Yousaf-Iqbal/practicum (main)
+$ cd ..
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-2-Muhammad-Yousaf-Iqbal (main)
+$ ls -la
+total 25
+drwxr-xr-x 1 16076 197609     0 Jan 25 17:15 ./
+drwxr-xr-x 1 16076 197609     0 Jan 25 17:02 ../
+drwxr-xr-x 1 16076 197609     0 Jan 25 17:02 .git/
+-rw-r--r-- 1 16076 197609 12288 Jan 25 17:04 .mini_practicum_01.txt.swp
+-rw-r--r-- 1 16076 197609   229 Jan 25 17:13 about_me.txt
+-rw-r--r-- 1 16076 197609  3075 Jan 25 17:02 mini_practicum_01.txt
+drwxr-xr-x 1 16076 197609     0 Jan 25 17:15 practicum/
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-2-Muhammad-Yousaf-Iqbal (main)
+$ ls -la
+total 25
+drwxr-xr-x 1 16076 197609     0 Jan 25 17:15 ./
+drwxr-xr-x 1 16076 197609     0 Jan 25 17:02 ../
+drwxr-xr-x 1 16076 197609     0 Jan 25 17:02 .git/
+-rw-r--r-- 1 16076 197609 12288 Jan 25 17:04 .mini_practicum_01.txt.swp
+-rw-r--r-- 1 16076 197609   229 Jan 25 17:13 about_me.txt
+-rw-r--r-- 1 16076 197609  3075 Jan 25 17:02 mini_practicum_01.txt
+drwxr-xr-x 1 16076 197609     0 Jan 25 17:15 practicum/
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-2-Muhammad-Yousaf-Iqbal (main)
+$ cd practicum/
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-2-Muhammad-Yousaf-Iqbal/practicum (main)
+$ ls -la
+total 1
+drwxr-xr-x 1 16076 197609   0 Jan 25 17:15 ./
+drwxr-xr-x 1 16076 197609   0 Jan 25 17:15 ../
+-rw-r--r-- 1 16076 197609 229 Jan 25 17:14 about_me_copy.txt
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-2-Muhammad-Yousaf-Iqbal/practicum (main)
+$ rm about_me_copy.txt
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-2-Muhammad-Yousaf-Iqbal/practicum (main)
+$ ls -la
+total 0
+drwxr-xr-x 1 16076 197609 0 Jan 25 17:18 ./
+drwxr-xr-x 1 16076 197609 0 Jan 25 17:15 ../
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-2-Muhammad-Yousaf-Iqbal/practicum (main)
+$ cd ..
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-2-Muhammad-Yousaf-Iqbal (main)
+$ ls -la
+total 25
+drwxr-xr-x 1 16076 197609     0 Jan 25 17:15 ./
+drwxr-xr-x 1 16076 197609     0 Jan 25 17:02 ../
+drwxr-xr-x 1 16076 197609     0 Jan 25 17:02 .git/
+-rw-r--r-- 1 16076 197609 12288 Jan 25 17:04 .mini_practicum_01.txt.swp
+-rw-r--r-- 1 16076 197609   229 Jan 25 17:13 about_me.txt
+-rw-r--r-- 1 16076 197609  3075 Jan 25 17:02 mini_practicum_01.txt
+drwxr-xr-x 1 16076 197609     0 Jan 25 17:18 practicum/
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-2-Muhammad-Yousaf-Iqbal (main)
+$ cd practicum/
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-2-Muhammad-Yousaf-Iqbal/practicum (main)
+$ ls -la
+total 0
+drwxr-xr-x 1 16076 197609 0 Jan 25 17:18 ./
+drwxr-xr-x 1 16076 197609 0 Jan 25 17:15 ../
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-2-Muhammad-Yousaf-Iqbal/practicum (main)
+$ vi files.txt
+
+16076@Muhammad MINGW64 ~/SoftDev1_Spring/unit-2-Muhammad-Yousaf-Iqbal/practicum (main)
+$
+
